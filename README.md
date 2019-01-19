@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# HR_Analytics
+>>>>>>> 4b685270e150fe3f995faca39a2544a7f4c730e8
 # Analyze employee churn
 
 
@@ -17,4 +21,8 @@ In this analysis, you are going to cover the following topics:
 
 Employee churn can be defined as a leak or departure of an intellectual asset from a company or organization.  In Research, it was found that employee churn will be affected by age, tenure, pay, job satisfaction, salary, working conditions, growth potential and employee’s perceptions of fairness. Some other variables such as age, gender, ethnicity, education, and marital status, were essential factors in the prediction of employee churn. In some cases such as the employee with niche skills are harder to replace. It affects the ongoing work and productivity of existing employees. Acquiring new employees as a replacement has its costs such as hiring costs and training costs. Also, the new employee will take time to learn skills at the similar level of technical or business expertise knowledge of an older employee. Organizations tackle this problem by applying machine learning techniques to predict employee churn, which helps them in taking necessary actions.
 
+<<<<<<< HEAD
 Employee churn has unique dynamics. It helps us in designing better employee retention plans and improving employee satisfaction. Data science algorithms can predict the future churn.
+=======
+Employee churn has unique dynamics. It helps us in designing better employee retention plans and improving employee satisfaction. Data science algorithms can predict the future churn.
+>>>>>>> 4b685270e150fe3f995faca39a2544a7f4c730e8
